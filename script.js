@@ -11,7 +11,7 @@
     else if (age < 5 || age > 95) {
       alert ('You are eligible for free entry!');
     }
-     else if {
+     else if (age > 20 && age < 94) {
        alert ('You must pay regular price to be admitted!')
      }
     }
